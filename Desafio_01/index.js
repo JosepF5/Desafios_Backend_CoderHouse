@@ -1,3 +1,5 @@
 class  Usuario{
-    constructor(nombre,apellido,libros[2],mascotas[2])
+    constructor(nombre,apellido,libros,mascotas){
+
+    }
 }
